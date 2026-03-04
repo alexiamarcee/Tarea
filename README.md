@@ -51,8 +51,8 @@ El proyecto se desarrolló siguiendo el siguiente flujo de ramas:
 ```
 main
  └── develop
-      ├── feature-registro   (Alumno A: añadirTarea)
-      └── feature-listado    (Alumno B: mostrarTareas)
+      ├── feature-registro   (Alexia: añadirTarea)
+      └── feature-listado    (Iván: mostrarTareas)
 ```
 
 ---
