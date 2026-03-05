@@ -37,7 +37,7 @@ GestorTareas/
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/usuario/gestor-tareas.git
+   git clone https://github.com/alexiamarcee/Tarea.git
    ```
 2. Abre el proyecto en IntelliJ IDEA.
 3. Compila y ejecuta `Main.java`.
