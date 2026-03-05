@@ -20,7 +20,9 @@ public class Main {
                     String desc = sc.nextLine();
                     gestor.añadirTarea(desc);
                     break;
-
+                case 2:
+                    gestor.mostrarTareas();
+                    break;
             }
         } while (opcion != 0);
     }
